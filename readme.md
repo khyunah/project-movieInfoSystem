@@ -91,5 +91,5 @@ Java -Swing
 
 
 # 4. ERD
-<img src="https://user-images.githubusercontent.com/89136556/182077198-bc48aafa-1a30-4e75-90aa-8f7a5d73ccf9.png"  width="800" height="500">
+![movieinfo_erd](https://user-images.githubusercontent.com/89136556/182077718-0ddb2cd0-85f8-4fff-bbb9-1cb3a0caebe4.png)
 
